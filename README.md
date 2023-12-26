@@ -1,2 +1,2 @@
-# Walmart_new
+# Walmart_training
 Sales forcasting
